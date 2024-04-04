@@ -10,7 +10,7 @@ In the Exploring the NYC Airbnb Market project, you will apply data importing an
 
 **DataCamp Projects:** Exploring the NYC Airbnb Market
 ![alt text](image.png)
-**Image by Author | Code from the project**
+
 
 The project is perfect for beginners who want to get data importing and cleaning experience. You can apply similar methods to this Online Ticket Sales dataset to get even better at handling and processing the data.
 
@@ -25,7 +25,7 @@ In the Word Frequency in Classic Novels project, you will use requests and Beaut
 
 **DataCamp Projects:** Word Frequency in Classic Novels
 ![alt text](image-1.png)
-**Image by Author | Code from the project**
+
 
 For data analysts and data scientists, web scraping is an essential skill to learn. You can take a short Web Scraping with Python course to understand the tools and components of an HTML web page.
 
@@ -37,7 +37,7 @@ In the Exploring the Bitcoin Cryptocurrency Market project, you will explore bit
 
 **DataCamp Projects:** Exploring the Bitcoin Cryptocurrency Market
 ![alt text](image-2.png)
-**Image by Author | Code from the project**
+
 
 You can apply similar methods to Stock Exchange Data and learn to manipulate the data for data analysis. Furthermore, you can learn data transformation, aggregation, slicing, and indexing by taking Data Manipulation with pandas course.
 
@@ -47,7 +47,7 @@ In the Analyze Your Runkeeper Fitness project, you will import, clean, manipulat
 
 **DataCamp Projects:** Analyze Your Runkeeper Fitness
 ![alt text](image-3.png)
-**Image by Author | Code from the project**
+
 
 You can apply similar methods to NBA Shooting Data and gain more experience in data manipulation and analysis, or you can take Manipulating Time Series Data in Python course for handling complex time series datasets.
 
@@ -59,7 +59,7 @@ In the Visualizing COVID-19 project, you will visualize COVID-19 data using the 
 
 **DataCamp Projects:** Visualizing COVID-19
 ![alt text](image-4.png)
-**Image from the project**
+
 
 You can apply ggplot methods to Measles Data and gain more experience in data visualization and analysis. Moreover, you can take Intermediate Data Visualization with the ggplot2 course to learn the best data visualization practices.
 
@@ -77,7 +77,7 @@ You will:
 
 **DataCamp Projects:** The Android App Market on Google Play
 ![alt text](image-5.png)
-**Image from the project**
+
 
 You can apply lessons learned from the project on a similar dataset: Google Play Store Apps to gain more experience in visualizing and exploring the data.
 
@@ -95,7 +95,7 @@ For the Real-time Insights from Social Media project, you will use various stati
 
 **DataCamp Projects:** Real-time Insights from Social Media Data
 ![alt text](image-6.png)
-**Image by Author | Code from the project**
+
 
 You can apply similar methods used in the project on a new dataset: Internet News and Consumer Engagement, and learn more about analyzing news trends and consumer behavior.
 
@@ -107,7 +107,7 @@ You will import two datasets, combine them, perform tokenization and stemming, c
 
 **DataCamp Projects:** Find Movie Similarity from Plot Summaries
 ![alt text](image-7.png)
-**Image from the project**
+
 
 Use your lessons from the project and apply them to a new dataset: Netflix Movie Data, to get experience applying statistics to text data.
 
@@ -131,7 +131,7 @@ In the project, you will be finding the:
 
 **DataCamp Projects:** Analyze International Debt Statistics
 ![alt text](image-8.png)
-**Image by Author | Code from the project**
+
 
 You will connect World Nations MariaDB dataset and apply similar queries to get additional experience in handling and analyzing SQL databases. Additionally, you can Exploratory Data Analysis in SQL course to advance techniques and queries in handling various SQL databases.
 
@@ -141,7 +141,7 @@ In the Investigating Netflix Movies and Guest Stars in The Office project, you w
 
 **DataCamp Projects:** Investigating Netflix Movies and Guest Stars in The Office
 ![alt text](image-9.png)
-**Image from the project**
+
 
 You can work on a portfolio project by applying similar skills to a new dataset: Netflix Movie Data. Furthermore, you can take Exploratory Data Analysis in Python to learn more about data cleaning and validation, understand the relationship and distribution, and explore multivariate relationships.
 
@@ -153,7 +153,7 @@ In the Functions for Food Price Forecasts project, you will perform predictive a
 
 **DataCamp Projects:** Functions for Food Price Forecasts
 ![alt text](image-10.png)
-**Image from the project**
+
 
 You can create a time-series forecast R function for Loan Data and get better at performing predictive analysis using R packages. Moreover, you can complete the Forecasting Product Demand in R course to learn more about forecasting demand with time series, blending regression, and hierarchical forecasting.
 
@@ -165,7 +165,7 @@ First, you will understand the data and impute missing values. After that, you w
 
 **DataCamp Project:** Predicting Credit Card Approvals
 ![alt text](image-11.png)
-**Image by Author | Code from the project**
+
 
 Applying simple machine learning algorithms is an essential part of a data analyst’s life. You can gain more experience by applying similar methods to a new dataset: Bank Marketing.
 
@@ -183,7 +183,7 @@ For the Reducing Traffic Mortality in the USA project, you will find a good stra
 
 **DataCamp Project:** Reducing Traffic Mortality in the USA
 ![alt text](image-19.png)
-**Image from the project**
+
 
 If you want to learn more about unsupervised learning, check out Cluster Analysis in Python course.
 
@@ -214,7 +214,7 @@ The World Population Analysis project is the best example of performing deep exp
 
 **DataCamp Project:** World Population Analysis
 ![alt text](image-14.png)
-**Image from the project**
+
 
 Learn easy ways to plot data visualization in Python by completing Intermediate Data Visualization with Seaborn course.
 
@@ -224,7 +224,7 @@ The Data Science and MLOps Landscape in Industry project is a holy grail for all
 
 **DataCamp Project:** Data Science and MLOps Landscape in Industry
 ![alt text](image-15.png)
-**Image from the project**
+
 
 Take Introduction to Data Visualization with Plotly in Python course to learn about advanced Plotly features and customization.
 
@@ -250,7 +250,7 @@ You will clean the data and visualize it on the map to understand ride hotspots,
 
 **DataCamp Project:** Predict Taxi Fares with Random Forests
 ![alt text](image-16.png)
-**Image from the project**
+
 
 If you are new to R language tree-based models, take the Machine Learning with Tree-Based Models with R course and become an expert.
 
@@ -262,7 +262,7 @@ In detail, you will need to apply data manipulation, statistics, data visualizat
 
 **DataCamp Project:** Mobile Games A:B Testing with Cookie Cats
 ![alt text](image-18.png)
-**Image from the project**
+
 
 If you are new to A/B testing, try completing the Customer Analytics and A/B Testing in Python course to understand KPIs, explore and visualize customer behavior and application and analyze the results of A/B testing.
 
@@ -274,7 +274,7 @@ Time-series analysis and forecasting projects are in high demand in financial se
 
 **DataCamp Project:** An End-to-End Project on Time Series Analysis and Forecasting with Python
 ![alt text](image-20.png)
-**Image from the project**
+
 
 If you are struggling to analyze and forecast, try completing ARIMA Models in Python course to learn about ARMA models, fitting the future, selecting the best models, and training seasonal ARIMA models.
 
@@ -293,4 +293,4 @@ Upon completing the project, you will master:
 
 **DataCamp Project:** Build a multi-objective recommender system
 ![alt text](image-21.png)
-**Image from the project**
+

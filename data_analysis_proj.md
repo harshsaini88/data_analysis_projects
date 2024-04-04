@@ -205,7 +205,7 @@ You will be:
 
 **DataCamp Project:** Classify Song Genres from Audio Data
 ![alt text](image-13.png)
-**Image by Author | Result from the project**
+
 
 Learn more about logistic regression and SVM by taking Linear Classifiers in Python course.
 
